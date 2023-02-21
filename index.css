@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(29, 29, 29);
+  text-align: center;
+  color: rgb(243, 243, 243);
+}
+
+.h1 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.p {
+  color: rgb(247, 255, 7);
+}
+
+.contact {
+  padding-top: 2rem;
+}
